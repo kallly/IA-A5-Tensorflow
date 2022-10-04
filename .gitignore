@@ -3,4 +3,4 @@ Dataset/
 validation/
 logs/
 model*/
-arthur/data/
+arthur/data_*
