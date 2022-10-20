@@ -4,3 +4,5 @@ validation/
 logs/
 model*/
 /data
+tf/
+checkpoints/
